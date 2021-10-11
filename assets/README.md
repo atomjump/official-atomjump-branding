@@ -4,4 +4,4 @@
 
 These are the core AtomJump logos for print and digital.
 
-The subfolders contain other kinds of combined logos.
+The subfolders contain other kinds of combined logos for specific purposes.
