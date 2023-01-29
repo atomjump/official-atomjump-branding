@@ -1,5 +1,7 @@
 <img src="https://atomjump.com/images/logo80.png">
 
+__WARNING: this project has now moved to https://src.atomjump.com/atomjump/official-atomjump-branding.git__
+
 # official-atomjump-branding
 
 AtomJump logos for print and digital
